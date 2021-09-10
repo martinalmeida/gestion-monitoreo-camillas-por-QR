@@ -6,9 +6,9 @@ Proyecto de gestion de monitoreo y gestión de camillas de hospital el cual comp
 3.Asignacion de pacientes a camillas.
 4.Interfaz del supervisor el cual esta diseñana para ser abierto con un dispositivo movil y asi poder usar la camara para escanear el codigo QR de cada camilla para marcarla como ocupada o disponible.
 
-![alt text](https://github.com/martinalmeida/FetchAPI-CRUD-POO-PDO-PHP/blob/main/login.png?raw=true)
-![alt text](https://github.com/martinalmeida/FetchAPI-CRUD-POO-PDO-PHP/blob/main/dash.png?raw=true)
-![alt text](https://github.com/martinalmeida/FetchAPI-CRUD-POO-PDO-PHP/blob/main/login.png?raw=true)
-![alt text](https://github.com/martinalmeida/FetchAPI-CRUD-POO-PDO-PHP/blob/main/dash.png?raw=true)
-![alt text](https://github.com/martinalmeida/FetchAPI-CRUD-POO-PDO-PHP/blob/main/login.png?raw=true)
+![alt text](https://github.com/martinalmeida/gestion-monitoreo-camillas-por-QR/blob/master/login.png?raw=true)
+![alt text](https://github.com/martinalmeida/gestion-monitoreo-camillas-por-QR/blob/master/dash.png?raw=true)
+![alt text](https://github.com/martinalmeida/gestion-monitoreo-camillas-por-QR/blob/master/insertar.png?raw=true)
+![alt text](https://github.com/martinalmeida/gestion-monitoreo-camillas-por-QR/blob/master/celular.png?raw=true)
+![alt text](https://github.com/martinalmeida/gestion-monitoreo-camillas-por-QR/blob/master/celular2.png?raw=true)
 
